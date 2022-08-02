@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206942624768",
+    "firebase_url": "https://oriontek-app-default-rtdb.firebaseio.com",
+    "project_id": "oriontek-app",
+    "storage_bucket": "oriontek-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206942624768:android:c4bc144de06af1ddad8ce5",
+        "android_client_info": {
+          "package_name": "com.oriontekapp.buhos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206942624768-hck2l85vve5tr7oebeisal981t6rsm6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVRoZCMe0NckQ7zgnY2ziXX95DpgnXmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206942624768-hck2l85vve5tr7oebeisal981t6rsm6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
