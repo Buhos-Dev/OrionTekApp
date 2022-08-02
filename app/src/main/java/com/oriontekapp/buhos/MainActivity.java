@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity{
     private static final String TAG = MainActivity.class.getSimpleName();
 
 
-    FloatingActionButton floatingActionButton;
+    FloatingActionButton button_add;
     RecyclerView recyclerView;
     ImageButton button_edit_company;
     TextView text_company;
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity{
         getSupportActionBar().hide();
 
         //fiind views
-        floatingActionButton = findViewById(R.id.floatingActionButton);
+        button_add = findViewById(R.id.floatingActionButton);
         recyclerView = findViewById(R.id.recyclerview);
         button_edit_company = findViewById(R.id.edit_company);
         text_company = findViewById(R.id.company_name_edit);
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity{
         //adding adapter to recyclerview
 
         myRef = FirebaseDatabase.getInstance().getReference("Business");
-        
+
 
         //adding an event listener to fetch values
         myRef.addValueEventListener(new ValueEventListener() {
@@ -93,10 +93,19 @@ public class MainActivity extends AppCompatActivity{
         button_edit_company.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //
+                //edit campany name
 
             }
 
+        });
+
+        button_add.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //add new user
+
+
+            }
         });
 
 
