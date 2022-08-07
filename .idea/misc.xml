@@ -3,9 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/drawable/activity_splash.xml" value="0.3453125" />
+        <entry key="app/src/main/res/drawable/border_buttom.xml" value="0.3453125" />
+        <entry key="app/src/main/res/drawable/border_top.xml" value="0.3453125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.32472826086956524" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32916666666666666" />
         <entry key="app/src/main/res/layout/add_place.xml" value="0.32916666666666666" />
-        <entry key="app/src/main/res/layout/inflate_layout.xml" value="0.317481884057971" />
+        <entry key="app/src/main/res/layout/inflate_add_info_user.xml" value="0.3170289855072464" />
+        <entry key="app/src/main/res/layout/inflate_edit.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/inflate_edit_info.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/inflate_edit_work.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/inflate_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/inflate_layout_2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/inflate_view_info.xml" value="0.32916666666666666" />
       </map>
     </option>
   </component>
