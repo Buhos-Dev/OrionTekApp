@@ -3,7 +3,7 @@ OrionTek Business.
 
 Esta aplicación fue creada para la empresa OrionTek bajo el nombre de OrionTek Business por el requerimiento de las pruebas técnicas para los nuevos integrantes de OrionTek en República Dominicana creada por Osdward Rodriguez (Buhos Dev), la aplicación también cuenta con el logo único y registrado de OrionTek.
 
-En dicha Aplicación cuenta con las siguientes funciones:
+# Dicha Aplicación cuenta con las siguientes funciones:
 
 •Crear un nombre unico para el administrador de la aplicación.
 
@@ -17,7 +17,7 @@ En dicha Aplicación cuenta con las siguientes funciones:
 
 [NOTA]: Aunque es una aplicación para una prueba técnica la misma es 100% funcional y cumple con todas sus funciones libre de BUGS.
 
-## Capuras de uso de la aplicacion
+## #Capuras de uso de la aplicación.
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/one.png" width="30%" align="center"></img>
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/six.png" width="30%" align="center"></img>
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/two.png" width="30%" align="center"></img>
