@@ -21,3 +21,10 @@ En dicha Applicacion cuenta con las siguientes funciones:
 [NOTA]: Aunque es una aplicacion para una prueba tecnica la misma es 100% funcional y cumple con todas sus funciones libre de BUGS.
 
 ## Capuras de uso de la aplicacion
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/six.png" width="30%" align="center"></img>
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/one.png" width="30%" align="center"></img>
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/five.png" width="30%" align="center"></img>
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/four.png" width="30%" align="center"></img>
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/three.png" width="30%" align="center"></img>
+<img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/two.png" width="30%" align="center"></img>
+
