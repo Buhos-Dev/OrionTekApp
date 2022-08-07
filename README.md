@@ -19,3 +19,5 @@ En dicha Applicacion cuenta con las siguientes funciones:
 
 
 [NOTA]: Aunque es una aplicacion para una prueba tecnica la misma es 100% funcional y cumple con todas sus funciones libre de BUGS.
+
+## Capuras de uso de la aplicacion
