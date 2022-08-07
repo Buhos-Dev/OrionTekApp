@@ -163,7 +163,7 @@ public class AddPlace extends AppCompatActivity {
                         String status_value = spinner_status.getSelectedItem().toString();
 
                         //if User client not is null or empty
-                        if(!client_name.isEmpty()) {
+                        if(!name.getText().toString().isEmpty()) {
                             //Put data in DB.
                             myRef_whrite.child("name").setValue(name.getText().toString());
                             myRef_whrite.child("apellido").setValue(apellido.getText().toString());
@@ -174,8 +174,10 @@ public class AddPlace extends AppCompatActivity {
                             myRef_whrite.child("key").setValue(key2);
                             myRef_whrite.child("client").setValue(client_name);
                             myRef_whrite.child("status").setValue(status_value);
+
+                            Log.d(TAG,"Get String of Spinner -->"+spinner_status.getSelectedItem().toString());
                         }
-                        Log.d(TAG,"Get String of Spinner -->"+spinner_status.getSelectedItem().toString());
+
                     }
                 }).setNegativeButton("Cancelar", new DialogInterface.OnClickListener() {
                     @Override
