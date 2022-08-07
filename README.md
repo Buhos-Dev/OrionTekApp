@@ -11,7 +11,7 @@ En dicha Applicacion cuenta con las siguientes funciones:
 
 •Crear y borrar empresas.
 
-•Crear y boarrar clientes.
+•Crear y boarar clientes.
 
 •Crear clientes y agregarle informacion personal.
 
