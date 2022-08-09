@@ -17,7 +17,7 @@ Esta aplicación fue creada para la empresa OrionTek bajo el nombre de OrionTek 
 
 [NOTA]: Aunque es una aplicación para una prueba técnica la misma es 100% funcional y cumple con todas sus funciones libre de BUGS.
 
-## #Capuras de uso de la aplicación.
+## #Capturas de uso de la aplicación.
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/one.png" width="30%" align="center"></img>
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/six.png" width="30%" align="center"></img>
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/two.png" width="30%" align="center"></img>
